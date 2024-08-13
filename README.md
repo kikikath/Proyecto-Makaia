@@ -6,13 +6,11 @@ Este proyecto busca construir una base de datos robusta para la gestión del rie
 
 ## Estructura del Repositorio
 
-Este repositorio contiene los archivos y diagramas del diseño de la base de datos, las preguntas a resolver con los datos encontrados y generados, las consultas SQL y sus respectivos resultados, y el tablero de viasualización en Power BI.
+Este repositorio contiene los archivos y diagramas del diseño de la base de datos, el objetivo y las preguntas a resolver con los datos encontrados y generados, las consultas SQL y sus respectivos resultados, y el tablero de viasualización en Power BI.
 
-- Data/: Contiene los archivos de datos utilizados para el proyecto, incluyendo los datos reales y lo generados.
-- Scripts/: Scripts de Python para generación de datos, procesamiento y análisis.
-- SQL/: Consultas SQL para obtener insights de la base de datos.
-- PowerBI/: Archivo del tablero de Power BI para visualizaciones y análisis interactivo.
-
+- Datos_Riesgo.zip: Contiene los archivos de datos utilizados para el proyecto, incluyendo los datos reales y lo generados.
+- RiesgoyDesastre.md: Consultas SQL para obtener insights de la base de datos.
+- Tablero.pbix: Archivo del tablero de Power BI para visualizaciones y análisis interactivo.
 
 Si deseas contribuir a este proyecto, no dudes en abrir un issue o enviar un pull request. Nos interesa cualquier sugerencia o mejora.
 
