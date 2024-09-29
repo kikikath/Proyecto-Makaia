@@ -1,0 +1,8 @@
+idTipo_Desastre;Tipo de Desastre;Descripción
+1;Atmosférico;Desastre que tienen lugar en la atmósfera terrestre debido a variaciones y desequilibrios locales de temperatura y densidad.
+2;Geofísico;"Desastre que se surge desde el centro del planeta o en la super?cie 
+terrestre que afectan signi?cativamente el ritmo de vida del ser humano"
+3;Hidrológico;Desastres relacionado con el comportamiento descontrolado de las masas de agua
+4;Biológico;Desastre producido por agentes biológicos que transmiten enfermedades graves de alto contagio que se convierten en epidemias o pandemias.
+5;Técnico;Desastre derivado de un accidente en el que se involucran sustancias químicas o equipos peligrosos que causan daños al ambiente y a la salud de una región.
+6;Otros;No encaja en ninguna de las categorías.
